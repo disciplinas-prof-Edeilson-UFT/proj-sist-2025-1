@@ -86,7 +86,6 @@ O HortaShop é uma plataforma online inovadora que:
 
 ### Grupo 4 - FoodRush
 | FoodRush é uma plataforma que conecta clientes, mercados, separadores e entregadores em um único aplicativo. Os clientes podem fazer compras online de mercados parceiros, os mercados cadastram seus produtos, separadores organizam os pedidos e entregadores realizam a entrega. A proposta é oferecer praticidade, agilidade e uma nova experiência de compra, beneficiando todos os envolvidos na cadeia. |
-| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 ## Tecnologias Utilizadas
 
 - Linguagens Utilizadas:
