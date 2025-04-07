@@ -23,7 +23,7 @@ Disciplina prática de Projeto de Sistemas com foco no desenvolvimento de soluç
 
 # Grupos
 
-## Grupo - AFIM
+## Grupo - 1
 
 ### Descrição do Produto
 ![AFIM](https://github.com/user-attachments/assets/dffb3ff0-efc6-4455-993e-88580e5af9eb)
@@ -54,7 +54,7 @@ O AFIM é uma plataforma global para compra e venda de imóveis internacionais q
 - [Figma](https://www.figma.com/design/SjKudZhomZkMQfJH6S9mYG/ProjetoDeSistemas?node-id=0-1&p=f)
 - [Canvas e MVP](https://docs.google.com/document/d/1_lcApBw3zV5uPu6YecKle387iv3_uuYzAaiRIxjvHJc/edit?usp=sharing)
 
-## Grupo 3 - HortaShop
+## Grupo 2 - HortaShop
 
 ### Descrição do Produto
 [![Logo HortaShop](https://github.com/user-attachments/assets/6d1f7986-91de-4d88-874a-7de60881ab07)](https://github.com/HortaShop-PS)
@@ -82,12 +82,12 @@ O HortaShop é uma plataforma online inovadora que:
 
 ### Documentação Técnica
 - [Requisitos do Sistema](https://github.com/HortaShop-PS/.github/blob/main/user_stories.md)
-<<<<<<< HEAD
 - [Roadmap](https://github.com/HortaShop-PS/.github/blob/main/planejamento_entregas.md)  
 
 
+<hr> 
 
-### Grupo 4 - FoodRush
+### Grupo 3 - FoodRush
  FoodRush é uma plataforma que conecta clientes, mercados, separadores e entregadores em um único aplicativo. Os clientes podem fazer compras online de mercados parceiros, os mercados cadastram seus produtos, separadores organizam os pedidos e entregadores realizam a entrega. A proposta é oferecer praticidade, agilidade e uma nova experiência de compra, beneficiando todos os envolvidos na cadeia. 
 ## Tecnologias Utilizadas
 
@@ -113,12 +113,12 @@ O HortaShop é uma plataforma online inovadora que:
 - Ferramentas:
 <p>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,figma,git" /></a>
-  <img src="https://github.com/MellloJ/Projeto-de-Sistemas/tree/docs/docs/icons/DBeaver-Dark.svg" width="48">
-  <img src="https://github.com/MellloJ/Projeto-de-Sistemas/tree/docs/docs/icons/Trello-Dark.svg" width="48">
-  <img src="https://github.com/MellloJ/Projeto-de-Sistemas/tree/docs/docs/icons/LucidChart-Dark.svg" width="48">
+  <img src="https://github.com/MellloJ/Projeto-de-Sistemas/docs/icons/DBeaver-Dark.svg" width="48">
+  <img src="https://github.com/MellloJ/Projeto-de-Sistemas/docs/icons/Trello-Dark.svg" width="48">
+  <img src="https://github.com/MellloJ/Projeto-de-Sistemas/docs/icons/LucidChart-Dark.svg" width="48">
 </p>
 
-## Componentes do Projeto:
+## Integrantes do Projeto:
 
 | Nome                               | GitHub                                                       |
 |----------------------------------- |------------------------------------------------------------- |
@@ -136,7 +136,7 @@ O HortaShop é uma plataforma online inovadora que:
 
 <hr>
 
-## Grupo 5 - Beto Amparo
+## Grupo 4 - Beto Amparo
 ![Image](https://github.com/user-attachments/assets/a44b88db-f5c2-4b7b-aa9a-6287e296cf36)
 ### Descrição do Produto
 O **Beto Amparo** é um sistema híbrido de atendimento humanizado que combina o **WhatsApp Business** com uma **plataforma web**, oferecendo uma experiência integrada e acessível para clientes e donos de negócio. Ele:
@@ -160,12 +160,11 @@ O **Beto Amparo** é um sistema híbrido de atendimento humanizado que combina o
 
 ### Repositório
 🔗 [Acesse nosso repositório no GitHub](https://github.com/dallylademoraes/beto-amparo)
----
 
 ### Documentação Técnica
 - 🧪 MVP e User Stories no readme do repositório
   
-## Grupo 6 - MedFinder
+## Grupo 5 - MedFinder
 
 ### Descrição do Produto
 [![Logo MedFinder]
@@ -195,3 +194,33 @@ O **Beto Amparo** é um sistema híbrido de atendimento humanizado que combina o
 [Canvas Model](https://www.canva.com/design/DAGieJYwx_A/xZMhdLHK27y2-sjlAGdxYA/edit?utm_content=DAGieJYwx_A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 [Plano de Negócio](https://drive.google.com/file/d/1AQET8fuBe_vVqDHvAbeuwbzvECn_IEVi/view?usp=sharing)  
 [Prototipação](https://www.figma.com/design/ox6mAwSthgpXY2brCMVVpa/MedFinder?node-id=0-1&t=Epe7rgLvOBSERP3l-1)
+
+
+## Grupo 6 - Moovin
+
+### Descrição do Produto
+[LOGO]
+
+Moovin visa conectar locatários e inquilinos, proporcionando um ambiente seguro para a busca, anúncio e gerenciamento de imóveis para aluguel. Além disso, oferecerá funcionalidades adicionais para facilitar a administração dos contratos e aprimorar a experiência do usuário. O compromisso com a segurança se reflete na verificação de perfis e autenticação de usuários, a transparência será promovida por meio de avaliações e relatórios detalhados, e a eficiência será garantida com filtros avançados, notificações inteligentes e comunicação ágil. 
+
+### Integrantes
+| Nome                        | GitHub                                           |
+|----------------------------|---------------------------------------------      |
+| Victhor Cabral Magalhães   | [@VicthorCM](https://github.com/VicthorCM)        |
+| João Vitor Reis Dias       | [@joaovitro99l](https://github.com/joaovitro99)   |
+| Ana Júlia Campos Vieira    | [@Ana4Julia](https://github.com/Ana4Julia)        |
+| Mayconn Cardoso Soares     | [@Mayconncs](https://github.com/Mayconncs)        |
+| Pedro Lucas Moreira Pinto  | [@Swampertian](https://github.com/Swampertian)    |
+
+### Repositório
+🔗 [Acesse nosso repositório no GitHub](https://github.com/Swampertian/Moovin)
+
+
+
+### Documentação Técnica  
+- [MVP](https://1drv.ms/w/c/db855c096b910a16/EeK9tC0tvWFNhQesX0arOKsBRbiTnK-u8hcvCZ89QzSkdQ?e=ykXWZc)  
+- [Escopo do Projeto](https://1drv.ms/w/c/db855c096b910a16/Efdnnu3xRWROhgAldwqg83EBn4tgXcp-WBmLTZD-wsa-Sw?e=g2WNaL)  
+- [Figma](https://www.figma.com/design/Y1FgOveRfAKnDERhYwlbF4/Untitled?node-id=32-2&t=Xh5WSWHNx7wfXYiD-1)
+- [Planejamento da 1° Sprint](https://1drv.ms/w/c/db855c096b910a16/EYk9TRoT7CtGtvLHe1kPW2MB7OxpQGe2ujqVwR87bmbF7Q?e=bsrIK0)
+
+---
