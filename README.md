@@ -110,9 +110,9 @@ O HortaShop é uma plataforma online inovadora que:
 - Ferramentas:
 <p>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,figma,git" /></a>
-  <img src="docs/icons/DBeaver-Dark.svg" width="48">
-  <img src="docs/icons/Trello-Dark.svg" width="48">
-  <img src="docs/icons/LucidChart-Dark.svg" width="48">
+  <img src="https://github.com/MellloJ/Projeto-de-Sistemas/tree/docs/docs/icons/DBeaver-Dark.svg" width="48">
+  <img src="https://github.com/MellloJ/Projeto-de-Sistemas/tree/docs/docs/icons/Trello-Dark.svg" width="48">
+  <img src="https://github.com/MellloJ/Projeto-de-Sistemas/tree/docs/docs/icons/LucidChart-Dark.svg" width="48">
 </p>
 
 ## Componentes do Projeto:
