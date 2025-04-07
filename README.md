@@ -83,3 +83,53 @@ O HortaShop é uma plataforma online inovadora que:
 ### Documentação Técnica
 - [Requisitos do Sistema](https://github.com/HortaShop-PS/.github/blob/main/user_stories.md)
 - [Roadmap](https://github.com/HortaShop-PS/.github/blob/main/planejamento_entregas.md)
+
+### Grupo 4 - FoodRush
+| FoodRush é uma plataforma que conecta clientes, mercados, separadores e entregadores em um único aplicativo. Os clientes podem fazer compras online de mercados parceiros, os mercados cadastram seus produtos, separadores organizam os pedidos e entregadores realizam a entrega. A proposta é oferecer praticidade, agilidade e uma nova experiência de compra, beneficiando todos os envolvidos na cadeia. |
+| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+## Tecnologias Utilizadas
+
+- Linguagens Utilizadas:
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,dart,js,css,html" />
+  </a>
+</p>
+
+- Frameworks:
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,flutter,tailwind" />
+  </a>
+</p>
+
+- Banco de Dados:
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql"/></a>
+</p>
+
+- Ferramentas:
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,figma,git" /></a>
+  <img src="docs/icons/DBeaver-Dark.svg" width="48">
+  <img src="docs/icons/Trello-Dark.svg" width="48">
+  <img src="docs/icons/LucidChart-Dark.svg" width="48">
+</p>
+
+## Componentes do Projeto:
+
+| Nome                               | GitHub                                                       |
+|----------------------------------- |------------------------------------------------------------- |
+| Arthur Lima Duarte                 | [Arthutstuts96](https://github.com/Arthutstuts96)            |
+| Gabriel Fernades Zamora            | [GFernandesZ](https://github.com/GFernandesZ)                |
+| Jessé Eliseu Nunes da Silvaa       | [jessilver](https://github.com/jessilver)                    |
+| Jonatas de Sousa Madeira           | [MellloJ](https://github.com/MellloJ)                        |
+| João Pedro Ribeiro Dias Moraes           | [CaesarCrew](https://github.com/CaesarCrew)                        |
+
+## Repositório:
+| Links Uteis                                                                                |
+|------------------------------------------------------------------------------------------- |
+| [FoodRush (Web) - Ir ao Repositório](https://github.com/MellloJ/Projeto-de-Sistemas.git)     |
+| [FoodRush (App Mobile) - Ir ao Repositório](https://github.com/Arthutstuts96/Projeto-de-Sistemas-mobile.git)     |
+
+<hr>
