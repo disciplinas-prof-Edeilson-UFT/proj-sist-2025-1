@@ -160,8 +160,6 @@ O **Beto Amparo** é um sistema híbrido de atendimento humanizado que combina o
 
 ### Repositório
 🔗 [Acesse nosso repositório no GitHub](https://github.com/dallylademoraes/beto-amparo)
->>>>>>> 3feb216092a21b2f90dfd2b962e7d6a7a7d3de81
-
 ---
 
 ### Documentação Técnica
