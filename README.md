@@ -82,4 +82,37 @@ O HortaShop é uma plataforma online inovadora que:
 
 ### Documentação Técnica
 - [Requisitos do Sistema](https://github.com/HortaShop-PS/.github/blob/main/user_stories.md)
-- [Roadmap](https://github.com/HortaShop-PS/.github/blob/main/planejamento_entregas.md)
+- [Roadmap](https://github.com/HortaShop-PS/.github/blob/main/planejamento_entregas.md)  
+
+## Grupo 4 - MedFinder
+
+### Descrição do Produto
+[![Logo MedFinder]
+
+**MedFinder** é uma plataforma digital inovadora que:  
+- 🏥 **Conecta pacientes a clínicas e profissionais de saúde** conforme convênios e especialidades  
+- 📍 **Facilita o agendamento online** de consultas e exames  
+- 📲 **Amplia a visibilidade** de médicos, dentistas, psicólogos e outros profissionais da saúde  
+- ⏱️ **Reduz o tempo de espera e otimiza o atendimento médico**  
+- 💼 **Fomenta parcerias** com clínicas, laboratórios e convênios, impulsionando o acesso à saúde privada  
+
+
+### 👥 Integrantes
+
+| Nome                              | GitHub                                                  |
+|-----------------------------------|----------------------------------------------------------|
+| Henrique Noronha Fernandes        | [@henrique-noronha](https://github.com/henrique-noronha) |
+| Vicente Alves Gregório Netto      | [@Vicentolah17](https://github.com/Vicentolah17)         |
+| Breno Borges                      | [@Brenoborgesbr](https://github.com/Brenoborgesbr)       |
+| João Victor Mota                 | [@JaumMota](https://github.com/JaumMota)                 |
+
+
+### Repositório
+🔗 [Acesse nosso repositório no GitHub](https://github.com/henrique-noronha/medfinder)
+
+---
+
+### Documentação Técnica
+[Canvas Model](https://www.canva.com/design/DAGieJYwx_A/xZMhdLHK27y2-sjlAGdxYA/edit?utm_content=DAGieJYwx_A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+[Plano de Negócio](https://drive.google.com/file/d/1AQET8fuBe_vVqDHvAbeuwbzvECn_IEVi/view?usp=sharing)  
+[Prototipação](https://www.figma.com/design/ox6mAwSthgpXY2brCMVVpa/MedFinder?node-id=0-1&t=Epe7rgLvOBSERP3l-1)
