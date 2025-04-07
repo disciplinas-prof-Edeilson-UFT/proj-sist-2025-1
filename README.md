@@ -22,6 +22,37 @@ Disciplina prática de Projeto de Sistemas com foco no desenvolvimento de soluç
 
 # Grupos
 
+## Grupo - AFIM
+
+### Descrição do Produto
+![AFIM](https://github.com/user-attachments/assets/dffb3ff0-efc6-4455-993e-88580e5af9eb)
+
+
+O AFIM é uma plataforma global para compra e venda de imóveis internacionais que:
+- 🌍 Facilita negociações de imóveis para estrangeiros e investidores internacionais
+- 💱 Oferece conversão automática de moedas e simulações de financiamento
+- 🧭 Possui tradução automática de anúncios e suporte multilíngue
+- 🏠 Conecta compradores estrangeiros com imobiliárias e construtoras locais
+- 📊 Disponibiliza ferramentas de análise e suporte para aquisição de imóveis no exterior
+
+### Integrantes
+| Nome                          | GitHub                                      |
+|-------------------------------|---------------------------------------------|
+| Yuri Barbosa Takahashi        | [@calloc2](https://github.com/calloc2) |
+| Emanuel Badaró Fonseca        | [@AlunEmanuel](https://github.com/AlunEmanuel)    |
+| Vitor Leal                    | [@squidleeal](https://github.com/squidleeal) |
+| Marcos Barbosa                | [@eziors](https://github.com/eziors) |
+| Laura Mona     | [@nhangamona](https://github.com/nhangamona) |
+
+### Repositório
+🔗 [Acesse nosso repositório no GitHub](https://github.com/calloc2/afim)
+
+---
+
+### Documentação Técnica
+- [Figma](https://www.figma.com/design/SjKudZhomZkMQfJH6S9mYG/ProjetoDeSistemas?node-id=0-1&p=f)
+- [Canvas e MVP](https://docs.google.com/document/d/1_lcApBw3zV5uPu6YecKle387iv3_uuYzAaiRIxjvHJc/edit?usp=sharing)
+
 ## Grupo 3 - HortaShop
 
 ### Descrição do Produto
@@ -51,5 +82,3 @@ O HortaShop é uma plataforma online inovadora que:
 ### Documentação Técnica
 - [Requisitos do Sistema](https://github.com/HortaShop-PS/.github/blob/main/user_stories.md)
 - [Roadmap](https://github.com/HortaShop-PS/.github/blob/main/planejamento_entregas.md)
-
-
