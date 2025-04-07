@@ -82,7 +82,6 @@ O HortaShop é uma plataforma online inovadora que:
 
 ### Documentação Técnica
 - [Requisitos do Sistema](https://github.com/HortaShop-PS/.github/blob/main/user_stories.md)
-<<<<<<< HEAD
 - [Roadmap](https://github.com/HortaShop-PS/.github/blob/main/planejamento_entregas.md)  
 
 
@@ -113,9 +112,9 @@ O HortaShop é uma plataforma online inovadora que:
 - Ferramentas:
 <p>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,figma,git" /></a>
-  <img src="https://github.com/MellloJ/Projeto-de-Sistemas/tree/docs/docs/icons/DBeaver-Dark.svg" width="48">
-  <img src="https://github.com/MellloJ/Projeto-de-Sistemas/tree/docs/docs/icons/Trello-Dark.svg" width="48">
-  <img src="https://github.com/MellloJ/Projeto-de-Sistemas/tree/docs/docs/icons/LucidChart-Dark.svg" width="48">
+  <img src="https://github.com/MellloJ/Projeto-de-Sistemas/docs/icons/DBeaver-Dark.svg" width="48">
+  <img src="https://github.com/MellloJ/Projeto-de-Sistemas/docs/icons/Trello-Dark.svg" width="48">
+  <img src="https://github.com/MellloJ/Projeto-de-Sistemas/docs/icons/LucidChart-Dark.svg" width="48">
 </p>
 
 ## Componentes do Projeto:
@@ -160,9 +159,6 @@ O **Beto Amparo** é um sistema híbrido de atendimento humanizado que combina o
 
 ### Repositório
 🔗 [Acesse nosso repositório no GitHub](https://github.com/dallylademoraes/beto-amparo)
->>>>>>> 3feb216092a21b2f90dfd2b962e7d6a7a7d3de81
-
----
 
 ### Documentação Técnica
 - 🧪 MVP e User Stories no readme do repositório
