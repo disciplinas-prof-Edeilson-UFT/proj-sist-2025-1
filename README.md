@@ -23,7 +23,7 @@ Disciplina prática de Projeto de Sistemas com foco no desenvolvimento de soluç
 
 # Grupos
 
-## Grupo - AFIM
+## Grupo - 1
 
 ### Descrição do Produto
 ![AFIM](https://github.com/user-attachments/assets/dffb3ff0-efc6-4455-993e-88580e5af9eb)
@@ -54,7 +54,7 @@ O AFIM é uma plataforma global para compra e venda de imóveis internacionais q
 - [Figma](https://www.figma.com/design/SjKudZhomZkMQfJH6S9mYG/ProjetoDeSistemas?node-id=0-1&p=f)
 - [Canvas e MVP](https://docs.google.com/document/d/1_lcApBw3zV5uPu6YecKle387iv3_uuYzAaiRIxjvHJc/edit?usp=sharing)
 
-## Grupo 3 - HortaShop
+## Grupo 2 - HortaShop
 
 ### Descrição do Produto
 [![Logo HortaShop](https://github.com/user-attachments/assets/6d1f7986-91de-4d88-874a-7de60881ab07)](https://github.com/HortaShop-PS)
@@ -87,7 +87,7 @@ O HortaShop é uma plataforma online inovadora que:
 
 <hr> 
 
-### Grupo 4 - FoodRush
+### Grupo 3 - FoodRush
  FoodRush é uma plataforma que conecta clientes, mercados, separadores e entregadores em um único aplicativo. Os clientes podem fazer compras online de mercados parceiros, os mercados cadastram seus produtos, separadores organizam os pedidos e entregadores realizam a entrega. A proposta é oferecer praticidade, agilidade e uma nova experiência de compra, beneficiando todos os envolvidos na cadeia. 
 ## Tecnologias Utilizadas
 
@@ -136,7 +136,7 @@ O HortaShop é uma plataforma online inovadora que:
 
 <hr>
 
-## Grupo 5 - Beto Amparo
+## Grupo 4 - Beto Amparo
 
 ### Descrição do Produto
 O **Beto Amparo** é um sistema híbrido de atendimento humanizado que combina o **WhatsApp Business** com uma **plataforma web**, oferecendo uma experiência integrada e acessível para clientes e donos de negócio. Ele:
@@ -164,7 +164,7 @@ O **Beto Amparo** é um sistema híbrido de atendimento humanizado que combina o
 ### Documentação Técnica
 - 🧪 MVP e User Stories no readme do repositório
   
-## Grupo 6 - MedFinder
+## Grupo 5 - MedFinder
 
 ### Descrição do Produto
 [![Logo MedFinder]
@@ -196,7 +196,7 @@ O **Beto Amparo** é um sistema híbrido de atendimento humanizado que combina o
 [Prototipação](https://www.figma.com/design/ox6mAwSthgpXY2brCMVVpa/MedFinder?node-id=0-1&t=Epe7rgLvOBSERP3l-1)
 
 
-## Grupo - Moovin
+## Grupo 6 - Moovin
 
 ### Descrição do Produto
 [LOGO]
