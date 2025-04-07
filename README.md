@@ -162,3 +162,26 @@ O **Beto Amparo** é um sistema híbrido de atendimento humanizado que combina o
 
 ### Documentação Técnica
 - 🧪 MVP e User Stories no readme do repositório
+
+
+
+## Grupo - Moovin
+
+### Descrição do Produto
+[LOGO]
+
+Moovin visa conectar locatários e inquilinos, proporcionando um ambiente seguro para a busca, anúncio e gerenciamento de imóveis para aluguel. Além disso, oferecerá funcionalidades adicionais para facilitar a administração dos contratos e aprimorar a experiência do usuário. O compromisso com a segurança se reflete na verificação de perfis e autenticação de usuários, a transparência será promovida por meio de avaliações e relatórios detalhados, e a eficiência será garantida com filtros avançados, notificações inteligentes e comunicação ágil. 
+
+### Integrantes
+| Nome                        | GitHub                                           |
+|----------------------------|---------------------------------------------      |
+| Victhor Cabral Magalhães   | [@VicthorCM](https://github.com/VicthorCM)        |
+| João Vitor Reis Dias       | [@joaovitro99l](https://github.com/joaovitro99)   |
+| Ana Júlia Campos Vieira    | [@Ana4Julia](https://github.com/Ana4Julia)        |
+| Mayconn Cardoso Soares     | [@Mayconncs](https://github.com/Mayconncs)        |
+| Pedro Lucas Moreira Pinto  | [@Swampertian](https://github.com/Swampertian)    |
+
+### Repositório
+🔗 [Acesse nosso repositório no GitHub](https://github.com/calloc2/afim)
+
+---
