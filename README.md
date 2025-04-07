@@ -82,9 +82,91 @@ O HortaShop é uma plataforma online inovadora que:
 
 ### Documentação Técnica
 - [Requisitos do Sistema](https://github.com/HortaShop-PS/.github/blob/main/user_stories.md)
+<<<<<<< HEAD
 - [Roadmap](https://github.com/HortaShop-PS/.github/blob/main/planejamento_entregas.md)  
 
-## Grupo 4 - MedFinder
+
+
+### Grupo 4 - FoodRush
+ FoodRush é uma plataforma que conecta clientes, mercados, separadores e entregadores em um único aplicativo. Os clientes podem fazer compras online de mercados parceiros, os mercados cadastram seus produtos, separadores organizam os pedidos e entregadores realizam a entrega. A proposta é oferecer praticidade, agilidade e uma nova experiência de compra, beneficiando todos os envolvidos na cadeia. 
+## Tecnologias Utilizadas
+
+- Linguagens Utilizadas:
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,dart,js,css,html" />
+  </a>
+</p>
+
+- Frameworks:
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,flutter,tailwind" />
+  </a>
+</p>
+
+- Banco de Dados:
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql"/></a>
+</p>
+
+- Ferramentas:
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,figma,git" /></a>
+  <img src="docs/icons/DBeaver-Dark.svg" width="48">
+  <img src="docs/icons/Trello-Dark.svg" width="48">
+  <img src="docs/icons/LucidChart-Dark.svg" width="48">
+</p>
+
+## Componentes do Projeto:
+
+| Nome                               | GitHub                                                       |
+|----------------------------------- |------------------------------------------------------------- |
+| Arthur Lima Duarte                 | [Arthutstuts96](https://github.com/Arthutstuts96)            |
+| Gabriel Fernades Zamora            | [GFernandesZ](https://github.com/GFernandesZ)                |
+| Jessé Eliseu Nunes da Silvaa       | [jessilver](https://github.com/jessilver)                    |
+| Jonatas de Sousa Madeira           | [MellloJ](https://github.com/MellloJ)                        |
+| João Pedro Ribeiro Dias Moraes           | [CaesarCrew](https://github.com/CaesarCrew)                        |
+
+## Repositório:
+| Links Uteis                                                                                |
+|------------------------------------------------------------------------------------------- |
+| [FoodRush (Web) - Ir ao Repositório](https://github.com/MellloJ/Projeto-de-Sistemas.git)     |
+| [FoodRush (App Mobile) - Ir ao Repositório](https://github.com/Arthutstuts96/Projeto-de-Sistemas-mobile.git)     |
+
+<hr>
+## Grupo 4 - Beto Amparo
+
+### Descrição do Produto
+O **Beto Amparo** é um sistema híbrido de atendimento humanizado que combina o **WhatsApp Business** com uma **plataforma web**, oferecendo uma experiência integrada e acessível para clientes e donos de negócio. Ele:
+
+- 🤝 Facilita a comunicação inicial via WhatsApp com respostas automáticas  
+- 📲 Redireciona clientes para o site com links personalizados  
+- 🧾 Possui formulário de pedidos e agendamentos diretamente no site  
+- 📊 Disponibiliza um dashboard para o dono do negócio visualizar demandas  
+- 🧪 Desenvolvido como um MVP com base em user stories reais  
+- 🌐 Desenvolvido com Next.js + Supabase  
+- 📱 Funciona como PWA (Progressive Web App), podendo ser instalado no celular
+
+### Integrantes
+| Nome                        | GitHub |
+|-----------------------------|--------|
+| Gabriel Martiliano          | [@gabrielbdsm](https://github.com/gabrielbdsm) |
+| Ester Arraiz de Matos       | [@esterarraiz](https://github.com/esterarraiz) |
+| Neci Oneides da Silva       | [@gallineci](https://github.com/gallineci) |
+| Heloisa Rolins Ribeiro      | [@h-rolins](https://github.com/h-rolins) |
+| Dallyla de Moraes Sousa     | [@dallylademoraes](https://github.com/dallylademoraes) |
+
+### Repositório
+🔗 [Acesse nosso repositório no GitHub](https://github.com/dallylademoraes/beto-amparo)
+>>>>>>> 3feb216092a21b2f90dfd2b962e7d6a7a7d3de81
+
+---
+
+### Documentação Técnica
+- 🧪 MVP e User Stories no readme do repositório
+  
+## Grupo 5 - MedFinder
 
 ### Descrição do Produto
 [![Logo MedFinder]
@@ -108,11 +190,9 @@ O HortaShop é uma plataforma online inovadora que:
 
 
 ### Repositório
-🔗 [Acesse nosso repositório no GitHub](https://github.com/henrique-noronha/medfinder)
+🔗 [Acesse nosso repositório no GitHub](https://github.com/henrique-noronha/medfinder)  
 
----
-
-### Documentação Técnica
+### Documentação Técnica  
 [Canvas Model](https://www.canva.com/design/DAGieJYwx_A/xZMhdLHK27y2-sjlAGdxYA/edit?utm_content=DAGieJYwx_A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 [Plano de Negócio](https://drive.google.com/file/d/1AQET8fuBe_vVqDHvAbeuwbzvECn_IEVi/view?usp=sharing)  
 [Prototipação](https://www.figma.com/design/ox6mAwSthgpXY2brCMVVpa/MedFinder?node-id=0-1&t=Epe7rgLvOBSERP3l-1)
