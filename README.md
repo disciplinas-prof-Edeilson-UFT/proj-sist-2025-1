@@ -118,7 +118,7 @@ O HortaShop é uma plataforma online inovadora que:
   <img src="https://github.com/MellloJ/Projeto-de-Sistemas/docs/icons/LucidChart-Dark.svg" width="48">
 </p>
 
-## Componentes do Projeto:
+## Integrantes do Projeto:
 
 | Nome                               | GitHub                                                       |
 |----------------------------------- |------------------------------------------------------------- |
