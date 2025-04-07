@@ -132,6 +132,7 @@ O HortaShop é uma plataforma online inovadora que:
 | [FoodRush (App Mobile) - Ir ao Repositório](https://github.com/Arthutstuts96/Projeto-de-Sistemas-mobile.git)     |
 
 <hr>
+
 ## Grupo 5 - Beto Amparo
 
 ### Descrição do Produto
