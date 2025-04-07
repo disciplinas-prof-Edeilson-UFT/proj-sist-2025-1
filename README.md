@@ -132,3 +132,32 @@ O HortaShop é uma plataforma online inovadora que:
 | [FoodRush (App Mobile) - Ir ao Repositório](https://github.com/Arthutstuts96/Projeto-de-Sistemas-mobile.git)     |
 
 <hr>
+## Grupo 4 - Beto Amparo
+
+### Descrição do Produto
+O **Beto Amparo** é um sistema híbrido de atendimento humanizado que combina o **WhatsApp Business** com uma **plataforma web**, oferecendo uma experiência integrada e acessível para clientes e donos de negócio. Ele:
+
+- 🤝 Facilita a comunicação inicial via WhatsApp com respostas automáticas  
+- 📲 Redireciona clientes para o site com links personalizados  
+- 🧾 Possui formulário de pedidos e agendamentos diretamente no site  
+- 📊 Disponibiliza um dashboard para o dono do negócio visualizar demandas  
+- 🧪 Desenvolvido como um MVP com base em user stories reais  
+- 🌐 Desenvolvido com Next.js + Supabase  
+- 📱 Funciona como PWA (Progressive Web App), podendo ser instalado no celular
+
+### Integrantes
+| Nome                        | GitHub |
+|-----------------------------|--------|
+| Gabriel Martiliano          | [@gabrielbdsm](https://github.com/gabrielbdsm) |
+| Ester Arraiz de Matos       | [@esterarraiz](https://github.com/esterarraiz) |
+| Neci Oneides da Silva       | [@gallineci](https://github.com/gallineci) |
+| Heloisa Rolins Ribeiro      | [@h-rolins](https://github.com/h-rolins) |
+| Dallyla de Moraes Sousa     | [@dallylademoraes](https://github.com/dallylademoraes) |
+
+### Repositório
+🔗 [Acesse nosso repositório no GitHub](https://github.com/dallylademoraes/beto-amparo)
+
+---
+
+### Documentação Técnica
+- 🧪 MVP e User Stories no readme do repositório
