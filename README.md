@@ -10,6 +10,7 @@
   - [Índice](#índice)
   - [Sobre a Disciplina](#sobre-a-disciplina)
 - [Grupos](#grupos)
+  - [Grupo - AFIM](#grupo---afim)
   - [Grupo 3 - HortaShop](#grupo-3---hortashop)
 
 
