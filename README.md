@@ -137,7 +137,7 @@ O HortaShop é uma plataforma online inovadora que:
 <hr>
 
 ## Grupo 4 - Beto Amparo
-
+![Image](https://github.com/user-attachments/assets/a44b88db-f5c2-4b7b-aa9a-6287e296cf36)
 ### Descrição do Produto
 O **Beto Amparo** é um sistema híbrido de atendimento humanizado que combina o **WhatsApp Business** com uma **plataforma web**, oferecendo uma experiência integrada e acessível para clientes e donos de negócio. Ele:
 
