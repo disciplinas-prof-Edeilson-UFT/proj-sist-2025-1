@@ -82,7 +82,10 @@ O HortaShop é uma plataforma online inovadora que:
 
 ### Documentação Técnica
 - [Requisitos do Sistema](https://github.com/HortaShop-PS/.github/blob/main/user_stories.md)
-- [Roadmap](https://github.com/HortaShop-PS/.github/blob/main/planejamento_entregas.md)
+<<<<<<< HEAD
+- [Roadmap](https://github.com/HortaShop-PS/.github/blob/main/planejamento_entregas.md)  
+
+
 
 ### Grupo 4 - FoodRush
  FoodRush é uma plataforma que conecta clientes, mercados, separadores e entregadores em um único aplicativo. Os clientes podem fazer compras online de mercados parceiros, os mercados cadastram seus produtos, separadores organizam os pedidos e entregadores realizam a entrega. A proposta é oferecer praticidade, agilidade e uma nova experiência de compra, beneficiando todos os envolvidos na cadeia. 
@@ -110,9 +113,9 @@ O HortaShop é uma plataforma online inovadora que:
 - Ferramentas:
 <p>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,figma,git" /></a>
-  <img src="docs/icons/DBeaver-Dark.svg" width="48">
-  <img src="docs/icons/Trello-Dark.svg" width="48">
-  <img src="docs/icons/LucidChart-Dark.svg" width="48">
+  <img src="https://github.com/MellloJ/Projeto-de-Sistemas/tree/docs/docs/icons/DBeaver-Dark.svg" width="48">
+  <img src="https://github.com/MellloJ/Projeto-de-Sistemas/tree/docs/docs/icons/Trello-Dark.svg" width="48">
+  <img src="https://github.com/MellloJ/Projeto-de-Sistemas/tree/docs/docs/icons/LucidChart-Dark.svg" width="48">
 </p>
 
 ## Componentes do Projeto:
@@ -157,31 +160,40 @@ O **Beto Amparo** é um sistema híbrido de atendimento humanizado que combina o
 
 ### Repositório
 🔗 [Acesse nosso repositório no GitHub](https://github.com/dallylademoraes/beto-amparo)
+>>>>>>> 3feb216092a21b2f90dfd2b962e7d6a7a7d3de81
 
 ---
 
 ### Documentação Técnica
 - 🧪 MVP e User Stories no readme do repositório
-
-
-
-## Grupo - Moovin
+  
+## Grupo 6 - MedFinder
 
 ### Descrição do Produto
-[LOGO]
+[![Logo MedFinder]
 
-Moovin visa conectar locatários e inquilinos, proporcionando um ambiente seguro para a busca, anúncio e gerenciamento de imóveis para aluguel. Além disso, oferecerá funcionalidades adicionais para facilitar a administração dos contratos e aprimorar a experiência do usuário. O compromisso com a segurança se reflete na verificação de perfis e autenticação de usuários, a transparência será promovida por meio de avaliações e relatórios detalhados, e a eficiência será garantida com filtros avançados, notificações inteligentes e comunicação ágil. 
+**MedFinder** é uma plataforma digital inovadora que:  
+- 🏥 **Conecta pacientes a clínicas e profissionais de saúde** conforme convênios e especialidades  
+- 📍 **Facilita o agendamento online** de consultas e exames  
+- 📲 **Amplia a visibilidade** de médicos, dentistas, psicólogos e outros profissionais da saúde  
+- ⏱️ **Reduz o tempo de espera e otimiza o atendimento médico**  
+- 💼 **Fomenta parcerias** com clínicas, laboratórios e convênios, impulsionando o acesso à saúde privada  
 
-### Integrantes
-| Nome                        | GitHub                                           |
-|----------------------------|---------------------------------------------      |
-| Victhor Cabral Magalhães   | [@VicthorCM](https://github.com/VicthorCM)        |
-| João Vitor Reis Dias       | [@joaovitro99l](https://github.com/joaovitro99)   |
-| Ana Júlia Campos Vieira    | [@Ana4Julia](https://github.com/Ana4Julia)        |
-| Mayconn Cardoso Soares     | [@Mayconncs](https://github.com/Mayconncs)        |
-| Pedro Lucas Moreira Pinto  | [@Swampertian](https://github.com/Swampertian)    |
+
+### 👥 Integrantes
+
+| Nome                              | GitHub                                                  |
+|-----------------------------------|----------------------------------------------------------|
+| Henrique Noronha Fernandes        | [@henrique-noronha](https://github.com/henrique-noronha) |
+| Vicente Alves Gregório Netto      | [@Vicentolah17](https://github.com/Vicentolah17)         |
+| Breno Borges                      | [@Brenoborgesbr](https://github.com/Brenoborgesbr)       |
+| João Victor Mota                 | [@JaumMota](https://github.com/JaumMota)                 |
+
 
 ### Repositório
-🔗 [Acesse nosso repositório no GitHub](https://github.com/calloc2/afim)
+🔗 [Acesse nosso repositório no GitHub](https://github.com/henrique-noronha/medfinder)  
 
----
+### Documentação Técnica  
+[Canvas Model](https://www.canva.com/design/DAGieJYwx_A/xZMhdLHK27y2-sjlAGdxYA/edit?utm_content=DAGieJYwx_A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+[Plano de Negócio](https://drive.google.com/file/d/1AQET8fuBe_vVqDHvAbeuwbzvECn_IEVi/view?usp=sharing)  
+[Prototipação](https://www.figma.com/design/ox6mAwSthgpXY2brCMVVpa/MedFinder?node-id=0-1&t=Epe7rgLvOBSERP3l-1)
