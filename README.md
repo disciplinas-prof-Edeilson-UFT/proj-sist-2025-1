@@ -217,10 +217,9 @@ Moovin visa conectar locatários e inquilinos, proporcionando um ambiente seguro
 
 
 
-### Documentação Técnica  
+### Artefatos 
 - [MVP](https://1drv.ms/w/c/db855c096b910a16/EeK9tC0tvWFNhQesX0arOKsBRbiTnK-u8hcvCZ89QzSkdQ?e=ykXWZc)  
 - [Escopo do Projeto](https://1drv.ms/w/c/db855c096b910a16/Efdnnu3xRWROhgAldwqg83EBn4tgXcp-WBmLTZD-wsa-Sw?e=g2WNaL)  
-- [Figma](https://www.figma.com/design/Y1FgOveRfAKnDERhYwlbF4/Untitled?node-id=32-2&t=Xh5WSWHNx7wfXYiD-1)
-- [Planejamento da 1° Sprint](https://1drv.ms/w/c/db855c096b910a16/EYk9TRoT7CtGtvLHe1kPW2MB7OxpQGe2ujqVwR87bmbF7Q?e=bsrIK0)
+- [Release 1.0.0](https://github.com/Swampertian/Moovin/releases/tag/1.0.0)
 
 ---
