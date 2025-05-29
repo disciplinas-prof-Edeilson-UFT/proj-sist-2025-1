@@ -26,15 +26,16 @@ Disciplina prática de Projeto de Sistemas com foco no desenvolvimento de soluç
 ## Grupo - 1
 
 ### Descrição do Produto
-![AFIM](https://github.com/user-attachments/assets/dffb3ff0-efc6-4455-993e-88580e5af9eb)
+![dexbazaar](https://github.com/user-attachments/assets/bc29d4bd-e18f-4949-b29e-b0d631bfd685)
 
 
-O AFIM é uma plataforma global para compra e venda de imóveis internacionais que:
-- 🌍 Facilita negociações de imóveis para estrangeiros e investidores internacionais
-- 💱 Oferece conversão automática de moedas e simulações de financiamento
-- 🧭 Possui tradução automática de anúncios e suporte multilíngue
-- 🏠 Conecta compradores estrangeiros com imobiliárias e construtoras locais
-- 📊 Disponibiliza ferramentas de análise e suporte para aquisição de imóveis no exterior
+O dexBazaar é um marketplace descentralizado para compra e venda de produtos físicos com pagamento em criptomoedas.
+Principais características:
+
+- 🛒 Marketplace para qualquer categoria de produto, aberto para vendedores e compradores
+- 💸 Pagamento seguro via criptomoedas, com sistema de multisig e escrow
+- 🔒 Foco em privacidade e descentralização das transações
+- 🛠️ Ferramentas para gestão de anúncios, carteiras e recebíveis
 
 ### Integrantes
 | Nome                          | GitHub                                      |
@@ -42,11 +43,9 @@ O AFIM é uma plataforma global para compra e venda de imóveis internacionais q
 | Yuri Barbosa Takahashi        | [@calloc2](https://github.com/calloc2) |
 | Emanuel Badaró Fonseca        | [@AlunEmanuel](https://github.com/AlunEmanuel)    |
 | Vitor Leal                    | [@squidleeal](https://github.com/squidleeal) |
-| Marcos Barbosa                | [@eziors](https://github.com/eziors) |
-| Laura Mona     | [@nhangamona](https://github.com/nhangamona) |
 
 ### Repositório
-🔗 [Acesse nosso repositório no GitHub](https://github.com/calloc2/afim)
+🔗 [Acesse nosso repositório no GitHub](https://github.com/calloc2/dexbazaar)
 
 ---
 
