@@ -12,6 +12,7 @@
 - [Grupos](#grupos)
   - [Grupo - AFIM](#grupo---afim)
   - [Grupo 3 - HortaShop](#grupo-3---hortashop)
+  - [Grupo 5 - MedFinder](#grupo-5---medfinder)
   - [Grupo 6 - Moovin](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-1/tree/develop?tab=readme-ov-file#grupo-6---moovin)
 
 
