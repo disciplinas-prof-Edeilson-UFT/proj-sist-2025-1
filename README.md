@@ -12,6 +12,7 @@
 - [Grupos](#grupos)
   - [Grupo - AFIM](#grupo---afim)
   - [Grupo 3 - HortaShop](#grupo-3---hortashop)
+  - [Grupo 6 - Moovin](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-1/edit/develop/README.md#grupo-6---moovin)
 
 
 ---
@@ -199,7 +200,7 @@ O **Beto Amparo** é um sistema híbrido de atendimento humanizado que combina o
 ## Grupo 6 - Moovin
 
 ### Descrição do Produto
-[LOGO]
+![LOGO](https://github.com/EquipeMoovin/Moovin/blob/main/Backend/static/moovin-logo.png)
 
 Moovin visa conectar locatários e inquilinos, proporcionando um ambiente seguro para a busca, anúncio e gerenciamento de imóveis para aluguel. Além disso, oferecerá funcionalidades adicionais para facilitar a administração dos contratos e aprimorar a experiência do usuário. O compromisso com a segurança se reflete na verificação de perfis e autenticação de usuários, a transparência será promovida por meio de avaliações e relatórios detalhados, e a eficiência será garantida com filtros avançados, notificações inteligentes e comunicação ágil. 
 
@@ -219,9 +220,11 @@ Moovin visa conectar locatários e inquilinos, proporcionando um ambiente seguro
 
 ### Artefatos 
 - [MVP](https://1drv.ms/w/c/db855c096b910a16/EeK9tC0tvWFNhQesX0arOKsBRbiTnK-u8hcvCZ89QzSkdQ?e=ykXWZc)  
-- [Escopo do Projeto](https://1drv.ms/w/c/db855c096b910a16/Efdnnu3xRWROhgAldwqg83EBn4tgXcp-WBmLTZD-wsa-Sw?e=g2WNaL)  
-- [Release 1.0.0](https://github.com/Swampertian/Moovin/releases/tag/1.0.0)
-- [Release 1.1.0](https://github.com/Swampertian/Moovin/releases/tag/1.1.0)
-- [Release 1.2.0](https://github.com/Swampertian/Moovin/releases/tag/1.2.0)
+- [Escopo do Projeto](https://1drv.ms/w/c/db855c096b910a16/Efdnnu3xRWROhgAldwqg83EBn4tgXcp-WBmLTZD-wsa-Sw?e=g2WNaL)
+- [Vídeo Comercial](https://github.com/EquipeMoovin/Moovin/blob/main/docs/V%C3%ADdeoComercialMoovin.mp4) 
+- [APK final](https://github.com/EquipeMoovin/Moovin/blob/main/Backend/static/apks/moovin.apk)
+- [Landing Page](https://moovin.onrender.com/)
+- [Última Release - 1.4.0](https://github.com/Swampertian/Moovin/releases/tag/1.4.0)
+- [Apresentações](https://github.com/EquipeMoovin/Moovin/tree/main/docs/apresenta%C3%A7%C3%B5es)
 
 ---
