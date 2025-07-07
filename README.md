@@ -12,7 +12,7 @@
 - [Grupos](#grupos)
   - [Grupo 1 - DexBazaar](#grupo---afim)
   - [Grupo 2 - HortaShop](#grupo-2---hortashop)
-  - [Grupo 3 - TrazAí](#grupo-3---trazai)
+  - [Grupo 3 - TrazAí](#grupo-3---trazaí)
   - [Grupo 4 - Beto Amparo](#grupo-4---betoamparo)
   - [Grupo 5 - MedFinder](#grupo-5---medfinder)
   - [Grupo 6 - Moovin](#grupo-6---moovin)
