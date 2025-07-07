@@ -139,9 +139,10 @@ O HortaShop é uma plataforma online inovadora que:
 
 <hr>
 
-## Grupo 4 - Beto Amparo
+## Grupo 4 - Beto Amparo  
 ![Image](https://github.com/user-attachments/assets/a44b88db-f5c2-4b7b-aa9a-6287e296cf36)
-### Descrição do Produto
+
+### Descrição do Produto  
 O **Beto Amparo** é um sistema híbrido de atendimento humanizado que combina o **WhatsApp Business** com uma **plataforma web**, oferecendo uma experiência integrada e acessível para clientes e donos de negócio. Ele:
 
 - 🤝 Facilita a comunicação inicial via WhatsApp com respostas automáticas  
@@ -150,9 +151,16 @@ O **Beto Amparo** é um sistema híbrido de atendimento humanizado que combina o
 - 📊 Disponibiliza um dashboard para o dono do negócio visualizar demandas  
 - 🧪 Desenvolvido como um MVP com base em user stories reais  
 - 🌐 Desenvolvido com Next.js + Supabase  
-- 📱 Funciona como PWA (Progressive Web App), podendo ser instalado no celular
+- 📱 Funciona como PWA (Progressive Web App), podendo ser instalado no celular  
 
-### Integrantes
+### Acesso ao Sistema  
+- 📲 **Landing Page**: [https://beto-amparo.vercel.app/](https://beto-amparo.vercel.app/)  
+- 📥 **APK (instalação via PWA)**: Acesse o mesmo link acima no celular e adicione à tela inicial para instalar como app.
+
+> ⚠️ O link da **landing page** e o de instalação do **APK/PWA** é o mesmo:  
+> 👉 [https://beto-amparo.vercel.app/](https://beto-amparo.vercel.app/)
+
+### Integrantes  
 | Nome                        | GitHub |
 |-----------------------------|--------|
 | Gabriel Martiliano          | [@gabrielbdsm](https://github.com/gabrielbdsm) |
@@ -161,11 +169,11 @@ O **Beto Amparo** é um sistema híbrido de atendimento humanizado que combina o
 | Heloisa Rolins Ribeiro      | [@h-rolins](https://github.com/h-rolins) |
 | Dallyla de Moraes Sousa     | [@dallylademoraes](https://github.com/dallylademoraes) |
 
-### Repositório
+### Repositório  
 🔗 [Acesse nosso repositório no GitHub](https://github.com/dallylademoraes/beto-amparo)
 
-### Documentação Técnica
-- 🧪 MVP e User Stories no readme do repositório
+### Documentação Técnica  
+- 🧪 MVP e User Stories no `README.md` do repositório
   
 ## Grupo 5 - MedFinder
 
