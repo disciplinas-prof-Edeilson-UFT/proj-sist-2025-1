@@ -10,8 +10,12 @@
   - [Índice](#índice)
   - [Sobre a Disciplina](#sobre-a-disciplina)
 - [Grupos](#grupos)
-  - [Grupo - AFIM](#grupo---afim)
-  - [Grupo 3 - HortaShop](#grupo-3---hortashop)
+  - [Grupo 1 - DexBazaar](#grupo---afim)
+  - [Grupo 2 - HortaShop](#grupo-2---hortashop)
+  - [Grupo 3 - TrazAí](#grupo-3---trazai)
+  - [Grupo 4 - Beto Amparo](#grupo-4---betoamparo)
+  - [Grupo 5 - MedFinder](#grupo-5---medfinder)
+  - [Grupo 6 - Moovin](#grupo-6---moovin)
 
 
 ---
@@ -86,8 +90,11 @@ O HortaShop é uma plataforma online inovadora que:
 
 <hr> 
 
-### Grupo 3 - FoodRush
- FoodRush é uma plataforma que conecta clientes, mercados, separadores e entregadores em um único aplicativo. Os clientes podem fazer compras online de mercados parceiros, os mercados cadastram seus produtos, separadores organizam os pedidos e entregadores realizam a entrega. A proposta é oferecer praticidade, agilidade e uma nova experiência de compra, beneficiando todos os envolvidos na cadeia. 
+### Grupo 3 - TrazAí
+ O TrazAí é uma plataforma web e mobile que
+conecta clientes e mercados, permitindo
+compras simples, entregando diretamente
+na sua casa, com rapidez e segurança.
 ## Tecnologias Utilizadas
 
 - Linguagens Utilizadas:
@@ -130,8 +137,8 @@ O HortaShop é uma plataforma online inovadora que:
 ## Repositório:
 | Links Uteis                                                                                |
 |------------------------------------------------------------------------------------------- |
-| [FoodRush (Web) - Ir ao Repositório](https://github.com/MellloJ/Projeto-de-Sistemas.git)     |
-| [FoodRush (App Mobile) - Ir ao Repositório](https://github.com/Arthutstuts96/Projeto-de-Sistemas-mobile.git)     |
+| [TrazAí (Web) - Ir ao Repositório](https://github.com/MellloJ/Projeto-de-Sistemas.git)     |
+| [TrazAí (App Mobile) - Ir ao Repositório](https://github.com/Arthutstuts96/Projeto-de-Sistemas-mobile.git)     |
 
 <hr>
 
