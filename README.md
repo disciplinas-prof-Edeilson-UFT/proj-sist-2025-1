@@ -17,7 +17,6 @@
   - [Grupo 5 - MedFinder](#grupo-5---medfinder)
   - [Grupo 6 - Moovin](#grupo-6---moovin)
 
-
 ---
 
 ## Sobre a Disciplina
@@ -95,6 +94,7 @@ O HortaShop é uma plataforma online inovadora que:
 conecta clientes e mercados, permitindo
 compras simples, entregando diretamente
 na sua casa, com rapidez e segurança.
+
 ## Tecnologias Utilizadas
 
 - Linguagens Utilizadas:
@@ -140,11 +140,20 @@ na sua casa, com rapidez e segurança.
 | [TrazAí (Web) - Ir ao Repositório](https://github.com/MellloJ/Projeto-de-Sistemas.git)     |
 | [TrazAí (App Mobile) - Ir ao Repositório](https://github.com/Arthutstuts96/Projeto-de-Sistemas-mobile.git)     |
 
+### Documentação Técnica 
+
+[Landing Page](https://jessilver.github.io/trazai-landing-page/)  
+[Pitch](./MedFinder/Pitch%20MedFinder.pptx)  
+[Apresentação Técnica](./TrazAí/apresentacao-final.pptx)  
+[APK](https://github.com/)
+
 <hr>
 
-## Grupo 4 - Beto Amparo
+
+## Grupo 4 - Beto Amparo  
 ![Image](https://github.com/user-attachments/assets/a44b88db-f5c2-4b7b-aa9a-6287e296cf36)
-### Descrição do Produto
+
+### Descrição do Produto  
 O **Beto Amparo** é um sistema híbrido de atendimento humanizado que combina o **WhatsApp Business** com uma **plataforma web**, oferecendo uma experiência integrada e acessível para clientes e donos de negócio. Ele:
 
 - 🤝 Facilita a comunicação inicial via WhatsApp com respostas automáticas  
@@ -153,9 +162,16 @@ O **Beto Amparo** é um sistema híbrido de atendimento humanizado que combina o
 - 📊 Disponibiliza um dashboard para o dono do negócio visualizar demandas  
 - 🧪 Desenvolvido como um MVP com base em user stories reais  
 - 🌐 Desenvolvido com Next.js + Supabase  
-- 📱 Funciona como PWA (Progressive Web App), podendo ser instalado no celular
+- 📱 Funciona como PWA (Progressive Web App), podendo ser instalado no celular  
 
-### Integrantes
+### Acesso ao Sistema  
+- 📲 **Landing Page**: [https://beto-amparo.vercel.app/](https://beto-amparo.vercel.app/)  
+- 📥 **APK (instalação via PWA)**: Acesse o mesmo link acima no celular e adicione à tela inicial para instalar como app.
+
+> ⚠️ O link da **landing page** e o de instalação do **APK/PWA** é o mesmo:  
+> 👉 [https://beto-amparo.vercel.app/](https://beto-amparo.vercel.app/)
+
+### Integrantes  
 | Nome                        | GitHub |
 |-----------------------------|--------|
 | Gabriel Martiliano          | [@gabrielbdsm](https://github.com/gabrielbdsm) |
@@ -164,16 +180,17 @@ O **Beto Amparo** é um sistema híbrido de atendimento humanizado que combina o
 | Heloisa Rolins Ribeiro      | [@h-rolins](https://github.com/h-rolins) |
 | Dallyla de Moraes Sousa     | [@dallylademoraes](https://github.com/dallylademoraes) |
 
-### Repositório
+### Repositório  
 🔗 [Acesse nosso repositório no GitHub](https://github.com/dallylademoraes/beto-amparo)
 
-### Documentação Técnica
-- 🧪 MVP e User Stories no readme do repositório
+
+### Documentação Técnica  
+- 🧪 MVP e User Stories no `README.md` do repositório
   
 ## Grupo 5 - MedFinder
 
 ### Descrição do Produto
-[![Logo MedFinder]
+[![Logo Medfinder](./MedFinder/logo2.png)
 
 **MedFinder** é uma plataforma digital inovadora que:  
 - 🏥 **Conecta pacientes a clínicas e profissionais de saúde** conforme convênios e especialidades  
@@ -198,14 +215,16 @@ O **Beto Amparo** é um sistema híbrido de atendimento humanizado que combina o
 
 ### Documentação Técnica  
 [Canvas Model](https://www.canva.com/design/DAGieJYwx_A/xZMhdLHK27y2-sjlAGdxYA/edit?utm_content=DAGieJYwx_A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
-[Plano de Negócio](https://drive.google.com/file/d/1AQET8fuBe_vVqDHvAbeuwbzvECn_IEVi/view?usp=sharing)  
-[Prototipação](https://www.figma.com/design/ox6mAwSthgpXY2brCMVVpa/MedFinder?node-id=0-1&t=Epe7rgLvOBSERP3l-1)
-
+[Landing Page](https://henrique-noronha.github.io/medfinder/)  
+[Prototipação](https://www.figma.com/design/ox6mAwSthgpXY2brCMVVpa/MedFinder?node-id=0-1&t=Epe7rgLvOBSERP3l-1)  
+[Pitch](./MedFinder/Pitch%20MedFinder.pptx)  
+[Apresentação Técnica](./MedFinder/ApresentaçãoTecnicaMedFinder.pptx)  
+[APK](https://github.com/henrique-noronha/medfinder/releases/download/1.3.1/MedFinder.apk)
 
 ## Grupo 6 - Moovin
 
 ### Descrição do Produto
-[LOGO]
+![LOGO](https://github.com/EquipeMoovin/Moovin/blob/main/Backend/static/moovin-logo.png)
 
 Moovin visa conectar locatários e inquilinos, proporcionando um ambiente seguro para a busca, anúncio e gerenciamento de imóveis para aluguel. Além disso, oferecerá funcionalidades adicionais para facilitar a administração dos contratos e aprimorar a experiência do usuário. O compromisso com a segurança se reflete na verificação de perfis e autenticação de usuários, a transparência será promovida por meio de avaliações e relatórios detalhados, e a eficiência será garantida com filtros avançados, notificações inteligentes e comunicação ágil. 
 
@@ -222,11 +241,13 @@ Moovin visa conectar locatários e inquilinos, proporcionando um ambiente seguro
 🔗 [Acesse nosso repositório no GitHub](https://github.com/Swampertian/Moovin)
 
 
-
-### Documentação Técnica  
+### Artefatos 
 - [MVP](https://1drv.ms/w/c/db855c096b910a16/EeK9tC0tvWFNhQesX0arOKsBRbiTnK-u8hcvCZ89QzSkdQ?e=ykXWZc)  
-- [Escopo do Projeto](https://1drv.ms/w/c/db855c096b910a16/Efdnnu3xRWROhgAldwqg83EBn4tgXcp-WBmLTZD-wsa-Sw?e=g2WNaL)  
-- [Figma](https://www.figma.com/design/Y1FgOveRfAKnDERhYwlbF4/Untitled?node-id=32-2&t=Xh5WSWHNx7wfXYiD-1)
-- [Planejamento da 1° Sprint](https://1drv.ms/w/c/db855c096b910a16/EYk9TRoT7CtGtvLHe1kPW2MB7OxpQGe2ujqVwR87bmbF7Q?e=bsrIK0)
+- [Escopo do Projeto](https://1drv.ms/w/c/db855c096b910a16/Efdnnu3xRWROhgAldwqg83EBn4tgXcp-WBmLTZD-wsa-Sw?e=g2WNaL)
+- [Vídeo Comercial](https://github.com/EquipeMoovin/Moovin/blob/main/docs/V%C3%ADdeoComercialMoovin.mp4) 
+- [APK final](https://github.com/EquipeMoovin/Moovin/blob/main/Backend/static/apks/moovin.apk)
+- [Landing Page](https://moovin.onrender.com/)
+- [Última Release - 1.4.0](https://github.com/Swampertian/Moovin/releases/tag/1.4.0)
+- [Apresentações](https://github.com/EquipeMoovin/Moovin/tree/main/docs/apresenta%C3%A7%C3%B5es)
 
 ---
