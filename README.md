@@ -144,7 +144,7 @@ na sua casa, com rapidez e segurança.
 
 [Landing Page](https://jessilver.github.io/trazai-landing-page/)  
 [Pitch](./TrazAí/apresentacao-final.pptx)  
-[Apresentação Técnica](./TrazAí/apresentacao-tecnica.pptx)  
+[Apresentação Técnica](./TrazAí/apresentacao-tecnica.pdf)  
 [APK](https://github.com/)
 
 <hr>
