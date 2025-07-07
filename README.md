@@ -142,10 +142,12 @@ na sua casa, com rapidez e segurança.
 
 ### Documentação Técnica 
 
-[Landing Page](https://jessilver.github.io/trazai-landing-page/)  
-[Pitch](./TrazAí/apresentacao-final.pptx)  
-[Apresentação Técnica](./TrazAí/apresentacao-tecnica.pdf)  
-[APK](https://github.com/)
+| Item                               | Link                                                       |
+|----------------------------------- |------------------------------------------------------------- |
+| Landing Page                 | [Landing Page](https://jessilver.github.io/trazai-landing-page/)            |
+| Apresentação Final            | [Pitch](./TrazAí/apresentacao-final.pptx)                |
+| Apresentação Técnica       | [Apresentação Técnica](./TrazAí/apresentacao-tecnica.pdf)                    |
+| Download do APK           | [APK](https://github.com/)                        |
 
 <hr>
 
