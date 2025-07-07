@@ -147,6 +147,7 @@ na sua casa, com rapidez e segurança.
 | Landing Page                 | [Landing Page](https://jessilver.github.io/trazai-landing-page/)            |
 | Apresentação Final            | [Pitch](./TrazAí/apresentacao-final.pptx)                |
 | Apresentação Técnica       | [Apresentação Técnica](./TrazAí/apresentacao-tecnica.pdf)                    |
+| Model Canvas           | [Model Canvas](./TrazAí/'Model Canvas Projeto De Sistemas.pptx')                    |
 | Download do APK           | [APK](https://github.com/)                        |
 
 <hr>
