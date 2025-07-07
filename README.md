@@ -143,8 +143,8 @@ na sua casa, com rapidez e segurança.
 ### Documentação Técnica 
 
 [Landing Page](https://jessilver.github.io/trazai-landing-page/)  
-[Pitch](./MedFinder/Pitch%20MedFinder.pptx)  
-[Apresentação Técnica](./TrazAí/apresentacao-final.pptx)  
+[Pitch](./TrazAí/apresentacao-final.pptx)  
+[Apresentação Técnica](./TrazAí/apresentacao-tecnica.pptx)  
 [APK](https://github.com/)
 
 <hr>
