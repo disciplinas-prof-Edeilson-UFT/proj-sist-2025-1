@@ -10,12 +10,12 @@
   - [Índice](#índice)
   - [Sobre a Disciplina](#sobre-a-disciplina)
 - [Grupos](#grupos)
-  - [Grupo - AFIM](#grupo---afim)
-  - [Grupo 3 - HortaShop](#grupo-3---hortashop)
-  - [Grupo 4 - Beto Amparo](#grupo-4---beto-amparo)
+  - [Grupo 1 - DexBazaar](#grupo---afim)
+  - [Grupo 2 - HortaShop](#grupo-2---hortashop)
+  - [Grupo 3 - TrazAí](#grupo-3---trazai)
+  - [Grupo 4 - Beto Amparo](#grupo-4---betoamparo)
   - [Grupo 5 - MedFinder](#grupo-5---medfinder)
-  - [Grupo 6 - Moovin](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2025-1/tree/develop?tab=readme-ov-file#grupo-6---moovin)
-
+  - [Grupo 6 - Moovin](#grupo-6---moovin)
 
 ---
 
@@ -29,15 +29,16 @@ Disciplina prática de Projeto de Sistemas com foco no desenvolvimento de soluç
 ## Grupo - 1
 
 ### Descrição do Produto
-![AFIM](https://github.com/user-attachments/assets/dffb3ff0-efc6-4455-993e-88580e5af9eb)
+![dexbazaar](https://github.com/user-attachments/assets/bc29d4bd-e18f-4949-b29e-b0d631bfd685)
 
 
-O AFIM é uma plataforma global para compra e venda de imóveis internacionais que:
-- 🌍 Facilita negociações de imóveis para estrangeiros e investidores internacionais
-- 💱 Oferece conversão automática de moedas e simulações de financiamento
-- 🧭 Possui tradução automática de anúncios e suporte multilíngue
-- 🏠 Conecta compradores estrangeiros com imobiliárias e construtoras locais
-- 📊 Disponibiliza ferramentas de análise e suporte para aquisição de imóveis no exterior
+O dexBazaar é um marketplace descentralizado para compra e venda de produtos físicos com pagamento em criptomoedas.
+Principais características:
+
+- 🛒 Marketplace para qualquer categoria de produto, aberto para vendedores e compradores
+- 💸 Pagamento seguro via criptomoedas, com sistema de multisig e escrow
+- 🔒 Foco em privacidade e descentralização das transações
+- 🛠️ Ferramentas para gestão de anúncios, carteiras e recebíveis
 
 ### Integrantes
 | Nome                          | GitHub                                      |
@@ -45,11 +46,9 @@ O AFIM é uma plataforma global para compra e venda de imóveis internacionais q
 | Yuri Barbosa Takahashi        | [@calloc2](https://github.com/calloc2) |
 | Emanuel Badaró Fonseca        | [@AlunEmanuel](https://github.com/AlunEmanuel)    |
 | Vitor Leal                    | [@squidleeal](https://github.com/squidleeal) |
-| Marcos Barbosa                | [@eziors](https://github.com/eziors) |
-| Laura Mona     | [@nhangamona](https://github.com/nhangamona) |
 
 ### Repositório
-🔗 [Acesse nosso repositório no GitHub](https://github.com/calloc2/afim)
+🔗 [Acesse nosso repositório no GitHub](https://github.com/calloc2/dexbazaar)
 
 ---
 
@@ -90,8 +89,12 @@ O HortaShop é uma plataforma online inovadora que:
 
 <hr> 
 
-### Grupo 3 - FoodRush
- FoodRush é uma plataforma que conecta clientes, mercados, separadores e entregadores em um único aplicativo. Os clientes podem fazer compras online de mercados parceiros, os mercados cadastram seus produtos, separadores organizam os pedidos e entregadores realizam a entrega. A proposta é oferecer praticidade, agilidade e uma nova experiência de compra, beneficiando todos os envolvidos na cadeia. 
+### Grupo 3 - TrazAí
+ O TrazAí é uma plataforma web e mobile que
+conecta clientes e mercados, permitindo
+compras simples, entregando diretamente
+na sua casa, com rapidez e segurança.
+
 ## Tecnologias Utilizadas
 
 - Linguagens Utilizadas:
@@ -134,10 +137,18 @@ O HortaShop é uma plataforma online inovadora que:
 ## Repositório:
 | Links Uteis                                                                                |
 |------------------------------------------------------------------------------------------- |
-| [FoodRush (Web) - Ir ao Repositório](https://github.com/MellloJ/Projeto-de-Sistemas.git)     |
-| [FoodRush (App Mobile) - Ir ao Repositório](https://github.com/Arthutstuts96/Projeto-de-Sistemas-mobile.git)     |
+| [TrazAí (Web) - Ir ao Repositório](https://github.com/MellloJ/Projeto-de-Sistemas.git)     |
+| [TrazAí (App Mobile) - Ir ao Repositório](https://github.com/Arthutstuts96/Projeto-de-Sistemas-mobile.git)     |
+
+### Documentação Técnica 
+
+[Landing Page](https://jessilver.github.io/trazai-landing-page/)  
+[Pitch](./MedFinder/Pitch%20MedFinder.pptx)  
+[Apresentação Técnica](./TrazAí/apresentacao-final.pptx)  
+[APK](https://github.com/)
 
 <hr>
+
 
 ## Grupo 4 - Beto Amparo  
 ![Image](https://github.com/user-attachments/assets/a44b88db-f5c2-4b7b-aa9a-6287e296cf36)
@@ -171,6 +182,7 @@ O **Beto Amparo** é um sistema híbrido de atendimento humanizado que combina o
 
 ### Repositório  
 🔗 [Acesse nosso repositório no GitHub](https://github.com/dallylademoraes/beto-amparo)
+
 
 ### Documentação Técnica  
 - 🧪 MVP e User Stories no `README.md` do repositório
@@ -227,7 +239,6 @@ Moovin visa conectar locatários e inquilinos, proporcionando um ambiente seguro
 
 ### Repositório
 🔗 [Acesse nosso repositório no GitHub](https://github.com/Swampertian/Moovin)
-
 
 
 ### Artefatos 
