@@ -193,7 +193,7 @@ O **Beto Amparo** é um sistema híbrido de atendimento humanizado que combina o
 ## Grupo 5 - MedFinder
 
 ### Descrição do Produto
-[![Logo Medfinder](./MedFinder/logo2.png)
+![Logo Medfinder](./MedFinder/logo2.png)
 
 **MedFinder** é uma plataforma digital inovadora que:  
 - 🏥 **Conecta pacientes a clínicas e profissionais de saúde** conforme convênios e especialidades  
@@ -209,7 +209,6 @@ O **Beto Amparo** é um sistema híbrido de atendimento humanizado que combina o
 |-----------------------------------|----------------------------------------------------------|
 | Henrique Noronha Fernandes        | [@henrique-noronha](https://github.com/henrique-noronha) |
 | Vicente Alves Gregório Netto      | [@Vicentolah17](https://github.com/Vicentolah17)         |
-| Breno Borges                      | [@Brenoborgesbr](https://github.com/Brenoborgesbr)       |
 | João Victor Mota                 | [@JaumMota](https://github.com/JaumMota)                 |
 
 
@@ -217,12 +216,14 @@ O **Beto Amparo** é um sistema híbrido de atendimento humanizado que combina o
 🔗 [Acesse nosso repositório no GitHub](https://github.com/henrique-noronha/medfinder)  
 
 ### Documentação Técnica  
-[Canvas Model](https://www.canva.com/design/DAGieJYwx_A/xZMhdLHK27y2-sjlAGdxYA/edit?utm_content=DAGieJYwx_A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
-[Landing Page](https://henrique-noronha.github.io/medfinder/)  
-[Prototipação](https://www.figma.com/design/ox6mAwSthgpXY2brCMVVpa/MedFinder?node-id=0-1&t=Epe7rgLvOBSERP3l-1)  
+[Landing Page](https://henrique-noronha.github.io/medfinder/)   
 [Pitch](./MedFinder/Pitch%20MedFinder.pptx)  
 [Apresentação Técnica](./MedFinder/ApresentaçãoTecnicaMedFinder.pptx)  
-[APK](https://github.com/henrique-noronha/medfinder/releases/download/1.3.1/MedFinder.apk)
+[APK](https://github.com/henrique-noronha/medfinder/releases/download/1.3.1/MedFinder.apk)  
+[Vídeo de Apresentação](https://www.youtube.com/watch?v=r8xK5ktD7xw)  
+
+### Foto do Grupo  
+![Foto do Grupo](./MedFinder/GrupoMedFinder.png)
 
 ## Grupo 6 - Moovin
 
