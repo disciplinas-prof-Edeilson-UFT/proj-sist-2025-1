@@ -180,6 +180,10 @@ na sua casa, com rapidez e segurança.
 | Jonatas de Sousa Madeira           | [MellloJ](https://github.com/MellloJ)                        |
 | João Pedro Ribeiro Dias Moraes           | [CaesarCrew](https://github.com/CaesarCrew)                        |
 
+## Foto da Equipe
+![Foto do Grupo](./TrazAí/fotos/foto_equipe_trazai.jpeg)
+
+
 ## Repositório:
 | Links Uteis                                                                                |
 |------------------------------------------------------------------------------------------- |
