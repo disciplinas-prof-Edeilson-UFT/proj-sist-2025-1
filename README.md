@@ -135,7 +135,10 @@ O HortaShop é uma plataforma online inovadora que:
 
 <hr> 
 
-### Grupo 3 - TrazAí
+## Grupo 3 - TrazAí
+### Descrição do Produto
+!(./TrazAí/fotos/trazai_logo_fundo.jpg)
+
  O TrazAí é uma plataforma web e mobile que
 conecta clientes e mercados, permitindo
 compras simples, entregando diretamente
