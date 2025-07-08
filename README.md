@@ -40,7 +40,11 @@ Disciplina prática de Projeto de Sistemas com foco no desenvolvimento de soluç
 - **Incubadora de Empresas da Universidade Federal do Tocantins**
 
 ### Representantes
-(Preencha aqui)
+📌Gelma Carvalho - Gestora de Educação Empreendedora
+
+📌Walbenia Lemos - Analista de Negócios 
+
+📌Edglei Rodrigues - Coordenador de Comércio, Serviço e Sustentabilidade
 
 ## StartupSE
 ![logotipo](fotos/banner.jpg)
