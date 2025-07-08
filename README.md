@@ -187,7 +187,7 @@ O **Beto Amparo** é um sistema híbrido de atendimento humanizado que combina o
 - 📱 Funciona como PWA (Progressive Web App), podendo ser instalado no celular  
 
 ### Acesso ao Sistema  
-- 📲 **Landing Page**: [https://beto-amparo.vercel.app/](https://beto-amparo.vercel.app/)  
+- 📲 **Landing Page e vídeo comercial**: [https://beto-amparo.vercel.app/](https://beto-amparo.vercel.app/)  
 - 📥 **APK (instalação via PWA)**: Acesse o mesmo link acima no celular e adicione à tela inicial para instalar como app.
 
 > ⚠️ O link da **landing page** e o de instalação do **APK/PWA** é o mesmo:  
@@ -208,11 +208,10 @@ O **Beto Amparo** é um sistema híbrido de atendimento humanizado que combina o
 ### Repositório  
 🔗 [Acesse nosso repositório no GitHub](https://github.com/dallylademoraes/beto-amparo)
 
-
 ### Documentação Técnica  
 - 🧪 MVP e User Stories no `README.md` do repositório
-- Apresentação Técnica ![Link](BetoAmparo/apresentações/apresentação-tecnica.pdf)
-- Apresentação do Pitch ![Link](BetoAmparo/apresentações/pitch%20-%20beto%20amparo.pdf)
+- [Apresentação Técnica](BetoAmparo/apresentações/apresentação-tecnica.pdf)
+- [Apresentação do Pitch](BetoAmparo/apresentações/pitch%20-%20beto%20amparo.pdf)
   
 ## Grupo 5 - MedFinder
 
