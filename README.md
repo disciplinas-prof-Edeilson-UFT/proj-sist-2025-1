@@ -40,11 +40,11 @@ Disciplina prática de Projeto de Sistemas com foco no desenvolvimento de soluç
 - **Incubadora de Empresas da Universidade Federal do Tocantins**
 
 ### Representantes
-📌Gelma Carvalho - Gestora de Educação Empreendedora
+  - Gelma Carvalho - Gestora de Educação Empreendedora (Sebrae)
 
-📌Walbenia Lemos - Analista de Negócios 
+  - Walbenia Lemos - Analista de Negócios (Sebrae)
 
-📌Edglei Rodrigues - Coordenador de Comércio, Serviço e Sustentabilidade
+  - Edglei Rodrigues - Coordenador de Comércio, Serviço e Sustentabilidade (Sebrae)
 
 ## StartupSE
 ![logotipo](fotos/banner.jpg)
