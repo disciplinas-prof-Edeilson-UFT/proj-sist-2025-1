@@ -45,7 +45,7 @@ Disciplina prática de Projeto de Sistemas com foco no desenvolvimento de soluç
 ![logotipo](fotos/foto-turma.jpg)
 
 # Grupos
-## Grupo - 1
+## Grupo 1 - DexBazaar
 
 ### Descrição do Produto
 ![dexbazaar](https://github.com/user-attachments/assets/bc29d4bd-e18f-4949-b29e-b0d631bfd685)
@@ -74,6 +74,8 @@ Principais características:
 ### Documentação Técnica
 - [Figma](https://www.figma.com/design/SjKudZhomZkMQfJH6S9mYG/ProjetoDeSistemas?node-id=0-1&p=f)
 - [Canvas e MVP](https://docs.google.com/document/d/1_lcApBw3zV5uPu6YecKle387iv3_uuYzAaiRIxjvHJc/edit?usp=sharing)
+- [Apresentação Pitch](https://www.canva.com/design/DAGsa04lf6Y/1aGEstjFL9FaFAfcnpMwnA/edit)
+- [Apresentação Técnica](https://www.canva.com/design/DAGpNtKES6o/F1KtPM-Q2osikYO8UJ30Qg/edit?utm_content=DAGpNtKES6o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Grupo 2 - HortaShop
 
