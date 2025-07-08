@@ -23,7 +23,25 @@
 Disciplina prática de Projeto de Sistemas com foco no desenvolvimento de soluções tecnológicas inovadoras, aplicando metodologias ágeis e boas práticas de engenharia de software.
 
 ---
+## Evento
 
+### Instituições
+- **Agência de Inovação da Universidade Federal do Tocantins (Inovato)**
+- **SEBRAE Tocantins**
+- **Incubadora de Empresas da Universidade Federal do Tocantins**
+
+### Representantes
+(Preencha aqui)
+
+## StartupSE
+![logotipo](fotos/banner.jpg)
+### Logo
+![Banner do Projeto](fotos/logo_StartUp_SE.png)
+
+## Foto da banca
+![logotipo](fotos/banca-foto.jpg)
+## Foto da Turma
+![logotipo](fotos/foto-turma.jpg)
 # Grupos
 
 ## Grupo - 1
@@ -174,6 +192,9 @@ O **Beto Amparo** é um sistema híbrido de atendimento humanizado que combina o
 > ⚠️ O link da **landing page** e o de instalação do **APK/PWA** é o mesmo:  
 > 👉 [https://beto-amparo.vercel.app/](https://beto-amparo.vercel.app/)
 
+### Dia da apresentação do pitch
+![beto-equipe](BetoAmparo/foto-apresentacao.png)
+![beto-equipe](BetoAmparo/foto-auditorio.png)
 ### Integrantes  
 | Nome                        | GitHub |
 |-----------------------------|--------|
