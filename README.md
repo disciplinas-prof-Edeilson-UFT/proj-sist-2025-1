@@ -130,9 +130,15 @@ O HortaShop é uma plataforma online inovadora que:
 
 ---
 
-### Documentação Técnica
-- [Requisitos do Sistema](https://github.com/HortaShop-PS/.github/blob/main/user_stories.md)
-- [Roadmap](https://github.com/HortaShop-PS/.github/blob/main/planejamento_entregas.md)  
+### Documentação Técnica 
+
+| Item                               | Link                                                       |
+|----------------------------------- |------------------------------------------------------------- |
+| Landing Page                 | [Landing Page](hortashop.com)            |
+| Video comercial                 | [Video](https://youtu.be/t7DA1wapQW0)            |
+| Apresentação Final            | [Pitch](./HortaShop/hortashop_pitch.pdf)                |
+| Apresentação Técnica       | [Apresentação Técnica](./HortaShop/hortashop_tecnica.pdf)                    |
+| Download do APK           | [APK](https://github.com/HortaShop-PS/FrontEnd/releases/download/v1.0.1/HortaShop.apk)                        |  
 
 
 <hr> 
