@@ -38,12 +38,13 @@ Disciplina prática de Projeto de Sistemas com foco no desenvolvimento de soluç
 ### Logo
 ![Banner do Projeto](fotos/logo_StartUp_SE.png)
 
-## Foto da banca
+## Fotos do Evento
+### Foto da banca
 ![logotipo](fotos/banca-foto.jpg)
-## Foto da Turma
+### Foto da Turma
 ![logotipo](fotos/foto-turma.jpg)
-# Grupos
 
+# Grupos
 ## Grupo - 1
 
 ### Descrição do Produto
