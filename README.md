@@ -101,6 +101,8 @@ Principais características:
 - [Canvas e MVP](https://docs.google.com/document/d/1_lcApBw3zV5uPu6YecKle387iv3_uuYzAaiRIxjvHJc/edit?usp=sharing)
 - [Apresentação Pitch](https://www.canva.com/design/DAGsa04lf6Y/1aGEstjFL9FaFAfcnpMwnA/edit)
 - [Apresentação Técnica](https://www.canva.com/design/DAGpNtKES6o/F1KtPM-Q2osikYO8UJ30Qg/edit?utm_content=DAGpNtKES6o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Vídeo Comercial 1](https://github.com/calloc2/dexbazaar/blob/master/apresentacao%201.mp4)
+- [Vídeo Comercial 2](https://github.com/calloc2/dexbazaar/blob/master/apresentacao%202.mp4)
 
 ## Grupo 2 - HortaShop
 
