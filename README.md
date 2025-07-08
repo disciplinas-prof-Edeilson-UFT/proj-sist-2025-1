@@ -191,6 +191,7 @@ na sua casa, com rapidez e segurança.
 | Item                               | Link                                                       |
 |----------------------------------- |------------------------------------------------------------- |
 | Landing Page                 | [Landing Page](https://jessilver.github.io/trazai-landing-page/)            |
+| Video comercial                 | [Video](./TrazAí/Traz%20Aí%20-%20Vídeo.mp4)            |
 | Apresentação Final            | [Pitch](./TrazAí/apresentacao-final.pptx)                |
 | Apresentação Técnica       | [Apresentação Técnica](./TrazAí/apresentacao-tecnica.pdf)                    |
 | Model Canvas           | [Model Canvas](./TrazAí/Model-Canvas-Projeto-De-Sistemas.pdf)                    |
