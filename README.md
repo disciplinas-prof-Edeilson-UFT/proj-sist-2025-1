@@ -9,7 +9,7 @@
 - [Projeto de Sistemas 2025/1 | Universidade Federal do Tocantins - Palmas](#projeto-de-sistemas-20251--universidade-federal-do-tocantins---palmas)
   - [Índice](#índice)
   - [Sobre a Disciplina](#sobre-a-disciplina)
-  - [Evento](#evento)
+- [Evento](#evento)
   - [StartupSE](#startupse)
     - [Logo](#logo)
       - [Fotos Do Evento](#fotos-do-evento)
