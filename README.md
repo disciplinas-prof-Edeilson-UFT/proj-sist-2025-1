@@ -12,6 +12,7 @@
   - [StartupSE](#startupse)
     - [Banner oficial do evento](#startupse)
     - [Logo](#logo)
+    - [Roteiro Cerimonial](./roteiro_cerimonial.pdf)
     - [Fotos Do Evento](#fotos-do-evento)
       - [Foto da Banca](#foto-da-banca)
       - [Foto da Turma](#foto-da-turma)
