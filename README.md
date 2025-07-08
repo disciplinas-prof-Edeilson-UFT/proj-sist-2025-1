@@ -195,6 +195,7 @@ na sua casa, com rapidez e segurança.
 | Apresentação Final            | [Pitch](./TrazAí/apresentacao-final.pptx)                |
 | Apresentação Técnica       | [Apresentação Técnica](./TrazAí/apresentacao-tecnica.pdf)                    |
 | Model Canvas           | [Model Canvas](./TrazAí/Model-Canvas-Projeto-De-Sistemas.pdf)                    |
+| Plano de Negocios           | [Plano de Negocios](./TrazAí/plano-de-negocios-trazai-corrigido.pdf)                    |
 | Download do APK           | [APK](https://github.com/)                        |
 
 <hr>
