@@ -9,6 +9,8 @@
 - [Projeto de Sistemas 2025/1 | Universidade Federal do Tocantins - Palmas](#projeto-de-sistemas-20251--universidade-federal-do-tocantins---palmas)
   - [Índice](#índice)
   - [Sobre a Disciplina](#sobre-a-disciplina)
+  - [Foto da Banca](#foto-da-banca)
+  - [Notícias sobre o evento](#notícias-sobre-o-evento)
 - [Grupos](#grupos)
   - [Grupo 1 - DexBazaar](#grupo---1)
   - [Grupo 2 - HortaShop](#grupo-2---hortashop)
@@ -41,8 +43,20 @@ Disciplina prática de Projeto de Sistemas com foco no desenvolvimento de soluç
 ## Fotos do Evento
 ### Foto da banca
 ![logotipo](fotos/banca-foto.jpg)
+
+#### Integrantes da banca
+
+📌Gelma Carvalho - Gestora de Educação Empreendedora
+
+📌Walbenia Lemos é Analista de Negócios 
+
+📌Edglei Rodrigues - Coordenador de Comércio, Serviço e Sustentabilidade
+
 ### Foto da Turma
 ![logotipo](fotos/foto-turma.jpg)
+
+### Notícias sobre o evento
+[Site da UFT](https://www.uft.edu.br/noticias/alunos-apresentam-projetos-de-sistemas-com-solucoes-para-problemas-do-cotidiano)
 
 # Grupos
 ## Grupo 1 - DexBazaar
