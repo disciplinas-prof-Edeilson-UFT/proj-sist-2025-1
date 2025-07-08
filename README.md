@@ -211,6 +211,8 @@ O **Beto Amparo** é um sistema híbrido de atendimento humanizado que combina o
 
 ### Documentação Técnica  
 - 🧪 MVP e User Stories no `README.md` do repositório
+- Apresentação Técnica ![Link](BetoAmparo/apresentações/apresentação-tecnica.pdf)
+- Apresentação do Pitch ![Link](BetoAmparo/apresentações/pitch%20-%20beto%20amparo.pdf)
   
 ## Grupo 5 - MedFinder
 
