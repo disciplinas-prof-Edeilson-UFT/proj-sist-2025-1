@@ -266,6 +266,11 @@ Moovin visa conectar locatários e inquilinos, proporcionando um ambiente seguro
 | Mayconn Cardoso Soares     | [@Mayconncs](https://github.com/Mayconncs)        |
 | Pedro Lucas Moreira Pinto  | [@Swampertian](https://github.com/Swampertian)    |
 
+
+
+### Foto da Equipe
+  <img src="./Moovin/EquipeMoovin.jpeg" width="768" height="1024">
+
 ### Repositório
 🔗 [Acesse nosso repositório no GitHub](https://github.com/Swampertian/Moovin)
 
